@@ -52,3 +52,7 @@ This project applies data preprocessing, exploratory data analysis (EDA), featur
 
 ## Tools
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+# Conclusion
+
+This project demonstrates how machine learning techniques and data analysis can be used to estimate used car prices and understand the key factors influencing vehicle resale value.
