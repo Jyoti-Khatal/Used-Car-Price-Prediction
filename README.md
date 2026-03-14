@@ -8,32 +8,47 @@ This project applies data preprocessing, exploratory data analysis (EDA), featur
 
 ##Project Workflow
 1. Data Cleaning
-Removed irrelevant columns
-Checked for missing values and inconsistencies
-Handled outliers in numerical variables
+
+   Removed irrelevant columns.
+
+   Checked for missing values and inconsistencies.
+
+   Handled outliers in numerical variables.
 
 2. Exploratory Data Analysis (EDA)
-Analyzed distribution of selling price and mileage
-Identified relationships between vehicle attributes and car price
-Used visualizations such as box plots, histograms, and correlation heatmaps
+   
+   Analyzed distribution of selling price and mileage
+
+   Identified relationships between vehicle attributes and car price
+
+   Used visualizations such as box plots, histograms, and correlation heatmaps
 
 3. Feature Engineering
-Extracted car brand from car name
-Created car age feature from manufacturing year
-Grouped categories to simplify analysis
+   
+   Extracted car brand from car name.
+
+   Created car age feature from manufacturing year.
+
+   Grouped categories to simplify analysis.
 
 4. Data Preprocessing
-Applied categorical encoding techniques
-Performed feature scaling for numerical variables
 
-5. Machine Learning Model
-Implemented Linear Regression using Scikit-learn to predict selling prices
-Evaluated the relationship between vehicle features and price
+   Applied categorical encoding techniques.
+
+   Performed feature scaling for numerical variables.
+
+6. Machine Learning Model
+   
+   Implemented Linear Regression using Scikit-learn to predict selling prices.
+   
+   Evaluated the relationship between vehicle features and price.
 
 ## Key Insights
-Car brand and vehicle age significantly influence selling price
-Cars with lower mileage and newer manufacturing year tend to have higher resale value
-Fuel type and transmission also impact vehicle pricing trends
+   Car brand and vehicle age significantly influence selling price.
+   
+   Cars with lower mileage and newer manufacturing year tend to have higher resale value.
+   
+   Fuel type and transmission also impact vehicle pricing trends.
 
 ## Tools
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
